@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297438156476",
+    "project_id": "coffeemenuapp-8b4ac",
+    "storage_bucket": "coffeemenuapp-8b4ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297438156476:android:5a4295d7bbc1f70b5062b9",
+        "android_client_info": {
+          "package_name": "com.example.coffeemenuapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcjjkSjG-CUicK14aGvibQ07JS0_FYXLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

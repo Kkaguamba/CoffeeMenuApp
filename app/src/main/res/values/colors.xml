@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0481BA</color>
+    <color name="red">#D30A0A</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#c5ac94</color>
+    <color name="title_Color">#591f0b</color>
+    <color name="btn_Color">#6b372b</color>
+    <color name="btn2_color">#2c2221</color>
+    <color name="yellow">#FFEB3B</color>
+</resources>
