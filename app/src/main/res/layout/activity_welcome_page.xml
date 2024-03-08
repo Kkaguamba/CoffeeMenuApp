@@ -182,7 +182,7 @@
             android:layout_marginTop="18dp"
             android:textSize="18sp"
             android:textAlignment="center"
-            android:text="Please login to continue using the App or register if you don'thave an account."
+            android:text="Please login to continue using the App or register if you don't have an account."
             android:fontFamily="@font/averiaseriflibre_regular"/>
         <LinearLayout
             android:layout_width="match_parent"

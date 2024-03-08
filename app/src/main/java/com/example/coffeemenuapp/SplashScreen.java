@@ -6,8 +6,10 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.WindowManager;
+import android.widget.TextView;
 
 public class SplashScreen extends AppCompatActivity {
+    TextView appName;
     private Handler handler = new Handler();
     private  Runnable runnable;
 
@@ -18,6 +20,9 @@ public class SplashScreen extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
+        appName = findViewById(R.id.app_name);
+
+        appName.animate().translationY(-700).setDuration(2700).setStartDelay(0);
         runnable = new Runnable() {
             @Override
             public void run() {
